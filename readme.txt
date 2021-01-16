@@ -1,0 +1,1 @@
+This script will get the details of the active directory user created between specified time range. Data will then be exported to CSV file. You can select the properties of the user that you need after the select command.
